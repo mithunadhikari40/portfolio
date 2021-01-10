@@ -77,8 +77,6 @@ Just change `src/portfolio.js` to get your personal portfolio. Feel free to use 
 - [Deployment](#deployment)
 - [Technologies Used](#technologies-used)
 - [Illustrations](#illustrations)
-- [For the Future](#for-the-future)
-- [Contributors](#project-maintainers)
 
 ## Sections
 ✔️ Summary and About me\
