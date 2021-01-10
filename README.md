@@ -1,9 +1,9 @@
 
 ## A clean, beautiful and responsive portfolio template for Developers!
 
-# Note: This project is taken from https://github.com/saadpasta/developerFolio.git 
-# If you want to built something like this, please check it there.
-# All the instruction/update guide are available there
+ #### Note: This project is taken from https://github.com/saadpasta/developerFolio.git 
+ #### If you want to built something like this, please check it there.
+#### All the instruction/update guide are available there
 
 
 <p align="center">
